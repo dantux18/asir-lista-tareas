@@ -1,0 +1,19 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #008080;
+}
+
+#container {
+    background-color: #FF00FF;
+    margin: 0 auto;
+    max-width: 800px;
+    min-height: 600px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#tarea, #botonAd{
+    border-color: yellow;
+    border-radius: 2px;
+    border-style: solid;
+}
